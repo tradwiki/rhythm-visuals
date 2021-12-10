@@ -5,6 +5,7 @@ Setup guide for a virtual MIDI signal on MacOs for DrawPlanck.
 https://vmpk.sourceforge.io/#mac_notes
 2. Open the Software
 3. **edit > Midi Connections** with the following configurations:
+<img src="https://github.com/tradwiki/rhythm-visuals/blob/master/VMPK%20%20setup%20guide/Media/VMPK%20MIDI%20-%20setup%201.png" width="50%" height="50%" />
 4. Open Audio MIDI setup from your Mac settings
 **Window > Show MIDI studio**
 5. Open DrawPlanck in processing and run the code. A list of MIDI devices will appear in the console
