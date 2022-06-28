@@ -35,7 +35,7 @@ If developping in a Windows environment without a physical midi controller, you 
 
 - VMPK (http://vmpk.sourceforge.net/) to simulate the planck along with the included keyboard map (drawplank.xml) which can be imported to VMPK from "Edit" -> "Keyboard Map" -> "Open...". The keyboard map assigns the Q,W,A and S keys on your keyboard to the default planck notes.
 - loopMIDI (https://www.tobias-erichsen.de/software/loopmidi.html) to generate a virtual MIDI port to allow communication between VMPK and DrawPlanck.
-- MacOs users can refer to the [VMPK mac setup guide](https://github.com/tradwiki/rhythm-visuals/tree/master/VMPK%20mac%20setup%20guide))
+- MacOs users can refer to the [VMPK mac setup guide](https://github.com/tradwiki/rhythm-visuals/tree/master/VMPK%20mac%20setup%20guide)
 
 #### Modes
 
