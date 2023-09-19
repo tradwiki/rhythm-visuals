@@ -1,4 +1,4 @@
-# rhythm-visuals
+# rhythm-visuals (planche 4)
 Detecting and rendering real-time analog input peaks
 
 ## Input
